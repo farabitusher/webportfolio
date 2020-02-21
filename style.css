@@ -45,13 +45,13 @@ section{
 }
 .mid-banner{
      
-        background-image: url("C:/web-development/portfolio/images/dream-bg.png");
+        background-image: url("images/dream-bg.png");
         background-repeat: no-repeat;
         background-position: right bottom;
         width: 100%;
     }
 .last-banner{
-        background-image: url("C:/web-development/portfolio/images/exp-bg.png");
+        background-image: url("images/exp-bg.png");
         background-repeat: no-repeat;
         display:grid;
         grid-template-columns:1fr 1fr;
